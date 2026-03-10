@@ -35,15 +35,15 @@ shiny::runApp()
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Stock Comparison
-![Comparison](images/Compare.png)
+![Comparison](Compare.png)
 
 ### Moving Average Analysis
-![Moving Average](images/MovingAvg.png)
+![Moving Average](MovingAvg.png)
 
 ### Volume Analysis
-![Volume](images/VolumeAnalysis.png)
+![Volume](VolumeAnalysis.png)
 
 
